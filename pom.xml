@@ -44,7 +44,7 @@
   </scm>
 
   <properties>
-    <slf4j.version>1.7.21</slf4j.version>
+    <slf4j.version>1.7.32</slf4j.version>
     <log4j2.version>2.13.3</log4j2.version>
     <junit.version>4.13.1</junit.version>
     <assertj.version>3.4.1</assertj.version>
